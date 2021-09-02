@@ -1,4 +1,4 @@
-const VERSION = "v18.08.1";
+const VERSION = "v02.09.1";
 
 const SITE = "mistico";
 
