@@ -1,0 +1,285 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.753967,10.48845 ]
+    },
+    "properties": {
+    "title":"Introduction",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image":"./data/mistico/img/01.jpg",
+    "youtube":"https://www.youtube.com/watch?v=jPSqQaOL_HE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7542,10.4886 ]
+    },
+    "properties": {
+    "title":"Flowers & pollination",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/02.jpg",
+    "youtube":"https://www.youtube.com/watch?v=3pGkr_1_1GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.754233,10.489183 ]
+    },
+    "properties": {
+    "title":"The Guava tree",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/03.jpg",
+    "youtube":"https://www.youtube.com/watch?v=IFOh2fpXMAw"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.754517,10.489917 ]
+    },
+    "properties": {
+    "title":"Hummingbirds' ecology",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/04.jpg",
+    "youtube":"https://www.youtube.com/watch?v=nANc3REC8A0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.754517,10.490117 ]
+    },
+    "properties": {
+    "title":"Red-eyed Leaf Frog life-cycle",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/05.jpg",
+    "youtube":"https://www.youtube.com/watch?v=lcf_ypQiyB4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.754233,10.490067 ]
+    },
+    "properties": {
+    "title":"Layers of the rainforest- soil",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/06.jpg",
+    "youtube":"https://www.youtube.com/watch?v=XuJ8ijp01YU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.754417,10.490917 ]
+    },
+    "properties": {
+    "title":"Layers of the rainforest- understory",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/07.jpg",
+    "youtube":"https://www.youtube.com/watch?v=8OyP0TdhL9c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7538,10.491717 ]
+    },
+    "properties": {
+    "title":"Layers of the rainforest- trunks",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/08.jpg",
+    "youtube":"https://www.youtube.com/watch?v=qj7g0p37tW8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.753417,10.492583 ]
+    },
+    "properties": {
+    "title":"Snakes",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/09.jpg",
+    "youtube":"https://www.youtube.com/watch?v=aTotTmqw5N0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7534,10.492767 ]
+    },
+    "properties": {
+    "title":"White-collared Manakin breeding ecology",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/10.jpg",
+    "youtube":"https://www.youtube.com/watch?v=GT6H5fWsqes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.753817,10.4937 ]
+    },
+    "properties": {
+    "title":"Layers of the rainforest- canopy",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/11.jpg",
+    "youtube":"https://www.youtube.com/watch?v=6UFH4rpDei8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.752033,10.4953 ]
+    },
+    "properties": {
+    "title":"Layers of the rainforest- emergents",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/12.jpg",
+    "youtube":"https://www.youtube.com/watch?v=Yod2BZFKwcU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.750938,10.496147 ]
+    },
+    "properties": {
+    "title":"Forest & water",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/13.jpg",
+    "youtube":"https://www.youtube.com/watch?v=yW61WNR-9KM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.750633,10.49645 ]
+    },
+    "properties": {
+    "title":"Strawberry Poison Dart Frog life-cycle",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/14.jpg",
+    "youtube":"https://www.youtube.com/watch?v=tXn26iQOs2o"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.75045,10.495017 ]
+    },
+    "properties": {
+    "title":"Ants",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/15.jpg",
+    "youtube":"https://www.youtube.com/watch?v=NIlaSDRRj0g"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.752833,10.492533 ]
+    },
+    "properties": {
+    "title":"Epiphytes & climbing plants",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/16.jpg",
+    "youtube":"https://www.youtube.com/watch?v=-V3_aIYijLs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7532,10.491517 ]
+    },
+    "properties": {
+    "title":"Buttress & Stilt roots",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/17.jpg",
+    "youtube":"https://www.youtube.com/watch?v=FYlGjEFnSGg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.753883,10.490767 ]
+    },
+    "properties": {
+    "title":"Amazing Fungi",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/18.jpg",
+    "youtube":"https://www.youtube.com/watch?v=I4VR8TBTKB0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.753733,10.489417 ]
+    },
+    "properties": {
+    "title":"The Strangler Fig life history",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/19.jpg",
+    "youtube":"https://www.youtube.com/watch?v=p4K9MKe1fg0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.75395,10.487817 ]
+    },
+    "properties": {
+    "title":"Mistico- beyond tourim",
+    "nav_lon":"",
+    "nav_lat":"",
+    "image": "./data/mistico/img/20.jpg",
+    "youtube":"https://www.youtube.com/watch?v=HgeLLvNILgE"
+    }
+  }
+]
+}

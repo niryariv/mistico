@@ -1,0 +1,181 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+#info {
+    /* display: none; */
+    position: relative;
+    z-index: 1000;
+    margin: 5px auto;
+    max-width: 70%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    text-align: center;
+    color: #222;
+    background: #fff;
+    opacity: 75%;
+}
+
+
+/* #map {
+    height: 100%; width: 100vw;
+}
+
+*:focus {
+    outline: 0;
+}
+
+.leaflet-popup-content-wrapper {
+    direction: rtl;
+    font-size:16px;
+    line-height:24px;
+    text-align: right;
+} */
+
+.title {
+    font-weight: bold;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+.icon-image {
+    background-color: #fff;
+    padding: 4px;
+    border-radius:50px;
+}
+
+
+.cta{
+    background-color: white; 
+    border:1px solid lightgrey; 
+    border-radius:6px; 
+    color: tomato;
+    display:inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+    margin-bottom: 1em;
+    padding:.3em 1em; 
+    text-decoration:none; 
+    &:hover{
+      background-color:lightgrey;
+      color:slategrey;
+      text-decoration:none; 
+    } 
+}
+
+.image_marker {
+    display: block;
+    border: solid;
+    border-width: 2px;
+    border-color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+    width:50px;
+    height:50px;
+    background-position: center; 
+    background-size: contain;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    padding: 5px;
+    top: 5px;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.mfp-content {
+  max-height: 90%;
+}
+
+/* 
+// Modal https://codepen.io/thomgriggs/pen/EbGAK
+.modaloverlay{
+  background:rgba(0,0,0,0.8);
+  bottom:0;
+  left:0;
+  opacity:0;
+  pointer-events:none;
+  position:fixed;
+  right:0;
+  top:0;
+  -webkit-transition: opacity 400ms ease-in;
+  -moz-transition: opacity 400ms ease-in;
+  transition: opacity 400ms ease-in;
+  z-index:-1;
+  display: none;
+  &:target{
+    display: block;
+    opacity:1;
+    pointer-events:auto;
+    z-index:99999;
+  }
+  .modal{
+    background-color:white;
+    height: 100%;
+    position:relative;
+    margin:0 auto;
+    padding:3em;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    @media (min-width: 60em) {
+      height:75%;
+  	 margin:5% auto;
+  	 max-height: 57em;
+      max-width:66em;
+      width:85%;
+  	}
+	> iframe, > div{
+		border:none;
+		width:100%;
+		height:100%;
+    }
+  }
+  .close{
+    background-color:turquoise;
+    color:white;
+    font-size:24px;
+    padding:8px 12px;
+    position:absolute;
+    right:0;
+    text-align:center;
+    text-decoration:none;
+    top:0;
+    z-index: 1;
+  }
+}
+ */
+
+.style-switcher {
+  height: 50px; 
+  width: 50px;
+  padding: 8px;
+  border: 4px solid #fff;
+  border-radius: 10px;
+  margin: 8px;
+}
+
+.style-switcher-satellite {
+  background-image: url("./assets/img/satellite.png");
+}
+
+.style-switcher-streets {
+  background-image: url("./assets/img/streets.png");
+}
+
+.maplibregl-ctrl-logo {
+  display: none !important;
+}
